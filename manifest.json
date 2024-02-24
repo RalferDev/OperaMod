@@ -148,9 +148,9 @@
                 {
                     "gx_accent":
                     {
-                        "h": 112,
-                        "s": 80,
-                        "l": 44
+                        "h": 40,
+                        "s": 100,
+                        "l": 50
                     },
                     "gx_secondary_base":
                     {
@@ -167,6 +167,12 @@
                     "image": "wallpaper/dark.png",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
+                },
+                "light":
+                {
+                    "image": "wallpaper/ligth.png",
+                    "text_color": "#b87a00",
+                    "text_shadow": "#1a1a1a"
                 }
             }
         },
